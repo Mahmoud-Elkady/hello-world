@@ -1,2 +1,6 @@
 # hello-world
-just for test how to work on a Github
+just welcome.
+my name is Mahmoud-Elkady.
+
+i am in a master degree.
+i am a Quality control Eng.
